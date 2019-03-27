@@ -1,4 +1,7 @@
 # 4d-sesam-data-source
+
+[![Build Status](https://travis-ci.org/sesam-community/4d-sesam-data-source.svg?branch=master)](https://travis-ci.org/sesam-community/4d-sesam-data-source)
+
 4D database source for Sesam.io applications
 
 ### example system configuration
