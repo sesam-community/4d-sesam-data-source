@@ -1,0 +1,10 @@
+language: php
+php:
+  - '7.1'
+script: true
+
+services:
+  - docker
+  
+after_success:
+  - bash <(curl -s https://raw.githubusercontent.com/sesam-community/guidelines/master/after_success.sh)
